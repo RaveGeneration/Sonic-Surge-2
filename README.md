@@ -11,4 +11,4 @@ MacOS:
 -------------------------------------------------------------------------------------------
 The 'Presets' folder will be auto-generated after launching the plugin for the first time.
 -------------------------------------------------------------------------------------------
-![ss_screen_001d](https://github.com/user-attachments/assets/3bec0db0-39ca-49ae-a401-8bcb496a9c14)
+<img width="1772" height="1074" alt="sonicsurge2_screen_v101" src="https://github.com/user-attachments/assets/26a5fc22-ca5f-40c5-a50a-9c5058781a6d" />

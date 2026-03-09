@@ -5,16 +5,26 @@
     <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
     <MIDINextBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
     <MIDIPrevBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
-    <inputParams count="37" p0="0" p1="0" p2="0" p3="0" p4="0" p5="200" p6="3000" p7="0" p8="0" p9="0" p10="0" p11="0" p12="0" p13="0" p14="0" p15="100" p16="0" p17="0" p18="0" p19="2" p20="30" p21="200" p22="0" p23="2" p24="30" p25="200" p26="0" p27="2" p28="30" p29="200" p30="1" p31="0" p32="0" p33="0" p34="0" p35="1" p36="0"/>
-    <inputStrings count="1" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <inputParams count="39" p0="0" p1="0" p2="0" p3="0" p4="0" p5="200" p6="3000" p7="0" p8="0" p9="0" p10="0" p11="0" p12="0" p13="0" p14="0" p15="100" p16="0" p17="0" p18="0" p19="2" p20="30" p21="200" p22="0" p23="2" p24="30" p25="200" p26="0" p27="2" p28="30" p29="200" p30="1" p31="0" p32="0" p33="0" p34="0" p35="1" p36="0" p37="1" p38="0"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1=""/>
+    <internalDSPState/>
     <outputParams/>
     <model/>
-    <GUI version="1" useDefault="1" skinZoom="1.1999999999999999556" changedSincePresetLoaded="0">
+    <GUI version="1" useDefault="1" skinZoom="1" followHostZoom="1" changedSincePresetLoaded="0">
         <skin version="2">
             <state version="5">
-                <params pCount="1">
-                    <p0 name="global_opacity" value="100"/>
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
                 </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
             </state>
         </skin>
     </GUI>

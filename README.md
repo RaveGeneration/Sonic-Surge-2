@@ -1,1 +1,1 @@
-<img width="1772" height="1074" alt="sonicsurge2_screen_v101" src="https://github.com/user-attachments/assets/26a5fc22-ca5f-40c5-a50a-9c5058781a6d" />
+<img width="1294" height="780" alt="sonic surge 2 screen 104" src="https://github.com/user-attachments/assets/770a70e1-3675-4ab7-a0a9-c68efb5aca13" />
